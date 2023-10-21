@@ -37,8 +37,11 @@
 }
 
 .botnavbar p{
-    float: center;
+    font-size: medium;
+    float: right;
     color: #ffffff;
+    margin-top: 2vh;
+    margin-left: 13vw;
 }
 
 .botnavbar h5
@@ -117,14 +120,6 @@
         color: #ffffff;
         margin-top: 1vh;
         margin-left: 17vw;
-    }
-
-    .botnavbar p{
-        font-size: medium;
-        float: right;
-        color: #ffffff;
-        margin-top: 2vh;
-        margin-left: 13vw;
     }
 
 .logo img{
