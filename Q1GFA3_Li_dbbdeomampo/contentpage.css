@@ -36,8 +36,11 @@
 }
 
 .botnavbar p{
-    float: center;
+    font-size: medium;
+    float: right;
     color: #ffffff;
+    margin-top: 2vh;
+    margin-left: 13vw;
 }
 
 .botnavbar h5
