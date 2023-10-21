@@ -113,11 +113,10 @@
 
     .topnavbar p{
         font-size: large;
-        float: right;
+        float: center;
         color: #ffffff;
-        margin-right: 69vw;
         margin-top: 1vh;
-        
+        margin-left: 17vw;
     }
 
     .botnavbar p{

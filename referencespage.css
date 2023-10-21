@@ -116,19 +116,17 @@
 
     .topnavbar p{
         font-size: large;
-        float: right;
+        float: left;
         color: #ffffff;
-        margin-right: 69vw;
         margin-top: 1vh;
-        
     }
 
-    .botnavbar p{
-        font-size: medium;
-        float: right;
+    .topnavbar p{
+        font-size: large;
+        float: center;
         color: #ffffff;
-        margin-top: 2vh;
-        margin-left: 13vw;
+        margin-top: 1vh;
+        margin-left: 17vw;
     }
 
 .logo img{
