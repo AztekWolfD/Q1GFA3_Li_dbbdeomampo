@@ -180,6 +180,9 @@
     font-family: 'Anton', sans-serif;
 }
 
-
+.content img{
+    width: 60vw;
+    height: 60vh;
+}
 
 
